@@ -7,6 +7,7 @@ This is a fun project from me (Frontend Engineer) to learn about Backend Enginee
 - NodeJS
 - ExpressJS
 - Typescript
+- MySQL
 
 ## Deploymeny
 For now i don't deploy this because the development still on going.
